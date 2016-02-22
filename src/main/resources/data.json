@@ -1,0 +1,509 @@
+{
+  "options": {
+    "profileId": "Acaciella",
+    "opusId": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+    "attributes": "true",
+    "map": null,
+    "nomenclature": "true",
+    "taxonomy": "true",
+    "bibliography": null,
+    "links": null,
+    "bhllinks": null,
+    "specimens": null,
+    "conservation": null,
+    "status": null,
+    "images": null,
+    "children": null,
+    "email": null,
+    "allowFineGrainedAttribution": true,
+    "displayToc": false
+  },
+  "profiles": [
+    {
+      "profile": {
+        "classifications": [
+          {
+            "rawRank": "Kingdom",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:661518",
+            "rank": "kingdom",
+            "scientificName": "Plantae",
+            "profileUuid": "",
+            "profileName": null
+          },
+          {
+            "rawRank": "",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:412162",
+            "rank": "phylum",
+            "scientificName": "Charophyta",
+            "profileUuid": "",
+            "profileName": null
+          },
+          {
+            "rawRank": "Class",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:406945",
+            "rank": "class",
+            "scientificName": "Equisetopsida",
+            "profileUuid": "",
+            "profileName": null
+          },
+          {
+            "rawRank": "Subclass",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:417544",
+            "rank": "subclass",
+            "scientificName": "Magnoliidae",
+            "profileUuid": "",
+            "profileName": null
+          },
+          {
+            "rawRank": "Order",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:418427",
+            "rank": "order",
+            "scientificName": "Fabales",
+            "profileUuid": "",
+            "profileName": null
+          },
+          {
+            "rawRank": "Family",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:397778",
+            "rank": "family",
+            "scientificName": "Fabaceae",
+            "profileUuid": "2d659bbb-b042-4b4b-bb07-a936f767c05f",
+            "profileName": "Mimosaceae"
+          },
+          {
+            "rawRank": "Genus",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+            "rank": "genus",
+            "scientificName": "Acaciella",
+            "profileUuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+            "profileName": "Acaciella"
+          }
+        ],
+        "lastAttributeChange": "Updated Comment - Since publication of the Flora of Australia treatment, the Australian Plant Census recognises the transfer of some species from Acacia subg. Aculeiferum to the genus Acaciella. Acaciella texensis is said to be doubtfully naturalised in Qld, and is not treated further here.  ♂♀±–ÀרצΩ.orderedlistunorderedlistwith indent\ntable caption\ntesttable\nwithsome\ncontentin the cells\nasdf\n♂♀±–ÀרצΩheading 1 heading 2heading 3heading 4formattedaddressnormalheading 6\n \n \n ListOfThingNumberedListOfThingWithSublevel\nItalics\nBold italics\nAsdfasd\nSome random fonts \nSome random fonts\nCentered\nTables\nAre\nAnd\nGreat\nStuff\ninnit",
+        "bhl": [],
+        "opusName": "Real Classifications",
+        "bibliography": [],
+        "opusShortName": null,
+        "rank": "genus",
+        "authorship": "",
+        "excludedImages": [],
+        "matchedName": {
+          "scientificName": "Acaciella",
+          "fullName": "Acaciella Britton & Rose",
+          "nameAuthor": "Britton & Rose"
+        },
+        "createdDate": "2016-02-05T02:06:14Z",
+        "nslNameIdentifier": "202286",
+        "nameAuthor": "Britton & Rose",
+        "acknowledgements": [],
+        "archivedWithName": null,
+        "privateImages": [],
+        "mapImageUrl": "http://biocache.ala.org.au/ws/mapping/wms/image?q=lsid%3Aurn%3Alsid%3Abiodiversity.org.au%3Aapni.taxon%3A311518&extents=96.173828125,-47.11468820158343,169.826171875,-2.5694811631203973&outlineColour=0&dpi=300&scale=on&baselayer=world&fileName=occurrencemap.jpg&format=jpg&outline=true&popacity=1&pradiuspx=5&pcolour=00ff85",
+        "scientificName": "Acaciella",
+        "speciesProfile": {
+          "taxonName": {
+            "microReference": "96",
+            "nomenclaturalCode": "Botanical",
+            "typificationString": "",
+            "genusPart": "Acaciella",
+            "nomenclaturalStatus": "",
+            "basionymAuthorship": "",
+            "infraspecificEpithet": "",
+            "guid": "urn:lsid:biodiversity.org.au:apni.name:267043",
+            "hybridForm": "",
+            "authorship": "Britton & Rose",
+            "rankString": "gen",
+            "nameComplete": "Acaciella",
+            "publishedInCitation": "urn:lsid:biodiversity.org.au:apni.reference:181773",
+            "specificEpithet": "",
+            "infragenericEpithet": ""
+          },
+          "simpleProperties": [],
+          "habitats": [
+            {
+              "status": "N",
+              "statusAsString": "Non-marine",
+              "infoSourceURL": "http://www.marine.csiro.au/mirrorsearch/ir_search.list_species?gen_id=1308544",
+              "infoSourceId": "4",
+              "infoSourceName": "Interim Register of Marine and Non-marine Genera"
+            }
+          ],
+          "parentConcepts": [],
+          "conservationStatuses": [],
+          "isAustralian": true,
+          "identifiers": [
+            "urn:lsid:biodiversity.org.au:apni.taxon:302528",
+            "urn:lsid:biodiversity.org.au:apni.taxon:302529",
+            "urn:lsid:biodiversity.org.au:apni.taxon:353237"
+          ],
+          "extantStatusus": [
+            {
+              "status": "E",
+              "statusAsString": "Extant",
+              "infoSourceURL": "http://www.marine.csiro.au/mirrorsearch/ir_search.list_species?gen_id=1308544",
+              "infoSourceId": "4",
+              "infoSourceName": "Interim Register of Marine and Non-marine Genera"
+            }
+          ],
+          "extantStatuses": [
+            {
+              "status": "E",
+              "statusAsString": "Extant",
+              "infoSourceURL": "http://www.marine.csiro.au/mirrorsearch/ir_search.list_species?gen_id=1308544",
+              "infoSourceId": "4",
+              "infoSourceName": "Interim Register of Marine and Non-marine Genera"
+            }
+          ],
+          "synonyms": [
+            {
+              "isPreferred": true,
+              "nameString": "Acacia ser. Filicinae Benth.  ",
+              "infoSourceId": "5",
+              "infoSourceURL": "http://biodiversity.org.au/apni.taxon/311519",
+              "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:58321",
+              "type": 27,
+              "relationship": "includes",
+              "id": 458279,
+              "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311519",
+              "referencedIn": "Bentham, G. 1842, Notes on Mimoseae, with a synopsis of species. London Journal of Botany 1 318-392",
+              "isExcluded": false,
+              "isDraft": false,
+              "author": "Benth.",
+              "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:272675",
+              "description": "taxonomic",
+              "authorYear": "1842",
+              "isProtologue": false,
+              "infoSourceName": "Australian Plant Census"
+            },
+            {
+              "isPreferred": true,
+              "nameString": "Senegalia ser. Filicinae (Benth.) Pedley  ",
+              "infoSourceId": "5",
+              "infoSourceURL": "http://biodiversity.org.au/apni.taxon/311520",
+              "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:53822",
+              "type": 27,
+              "relationship": "includes",
+              "id": 458281,
+              "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311520",
+              "referencedIn": "Pedley, L. 1986, Derivation and dispersal of Acacia (Leguminosae), with particular reference to Australia, and the recognition of Senegalia and Racosperma. Botanical Journal of the Linnean Society 92 219-254",
+              "isExcluded": false,
+              "isDraft": false,
+              "author": "(Benth.) Pedley",
+              "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:272676",
+              "description": "taxonomic",
+              "authorYear": "1986",
+              "isProtologue": false,
+              "infoSourceName": "Australian Plant Census"
+            }
+          ],
+          "regionTypes": [],
+          "specimenHolding": [],
+          "commonNames": [],
+          "references": [],
+          "taxonConcept": {
+            "isPreferred": true,
+            "nameString": "Acaciella",
+            "infoSourceId": "5",
+            "infoSourceURL": "http://biodiversity.org.au/apni.taxon/311518",
+            "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:183599",
+            "referencedIn": "Rico, M. de L. & Bachman, S. 2006, A taxonomic revision of Acaciella (Leguminosae,  Mimosoideae). Anales del Jardin Botanico de Madrid 63(2) 189-244",
+            "id": 176672,
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+            "isExcluded": false,
+            "isDraft": false,
+            "rawRankString": "Genus",
+            "parentId": "163398",
+            "parentGuid": "urn:lsid:biodiversity.org.au:apni.taxon:397778",
+            "author": "Britton & Rose",
+            "rankString": "genus",
+            "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:267043",
+            "authorYear": "1928",
+            "rankID": 6000,
+            "left": 249483,
+            "isProtologue": false,
+            "right": 249492,
+            "infoSourceName": "Australian Plant Census"
+          },
+          "linkIdentifier": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+          "publicationReference": [
+            {
+              "guid": "urn:lsid:biodiversity.org.au:apni.reference:183599",
+              "title": "Rico, M. de L. & Bachman, S. 2006, A taxonomic revision of Acaciella (Leguminosae,  Mimosoideae). Anales del Jardin Botanico de Madrid 63(2) 189-244",
+              "containedIn": "urn:lsid:biodiversity.org.au:apni.publication:181415",
+              "pageIdentifiers": []
+            },
+            {
+              "guid": "urn:lsid:biodiversity.org.au:apni.reference:181773",
+              "title": "Britton, N.L. & Rose, J.N. 1928, North American Flora 23(3)",
+              "containedIn": "urn:lsid:biodiversity.org.au:apni.publication:50021",
+              "pageIdentifiers": []
+            }
+          ],
+          "classification": {
+            "scientificName": "Acaciella",
+            "species": "",
+            "phylumGuid": "urn:lsid:biodiversity.org.au:apni.taxon:412162",
+            "speciesGuid": "",
+            "kingdomGuid": "urn:lsid:biodiversity.org.au:apni.taxon:661518",
+            "genus": "Acaciella",
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+            "phylum": "Charophyta",
+            "rank": "genus",
+            "familyGuid": "urn:lsid:biodiversity.org.au:apni.taxon:397778",
+            "clazzGuid": "urn:lsid:biodiversity.org.au:apni.taxon:406945",
+            "kingdom": "Plantae",
+            "order": "Fabales",
+            "family": "Fabaceae",
+            "orderGuid": "urn:lsid:biodiversity.org.au:apni.taxon:418427",
+            "rankId": 6000,
+            "genusGuid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+            "clazz": "Equisetopsida"
+          },
+          "images": [],
+          "categories": [],
+          "identificationKeys": [],
+          "screenshotImages": [],
+          "childConcepts": [],
+          "distributionImages": [],
+          "pestStatuses": [],
+          "sameAsConcepts": [
+            {
+              "isPreferred": false,
+              "referencedIn": "Britton, N.L. & Rose, J.N. 1928, North American Flora 23(3)",
+              "guid": "urn:lsid:biodiversity.org.au:apni.taxon:302528",
+              "id": -1,
+              "isExcluded": false,
+              "isDraft": false,
+              "author": "Britton & Rose",
+              "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:267043",
+              "nameString": "Acaciella",
+              "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:181773",
+              "isProtologue": true
+            },
+            {
+              "isPreferred": false,
+              "referencedIn": "CHAH 2006, Australian Plant Census",
+              "guid": "urn:lsid:biodiversity.org.au:apni.taxon:302529",
+              "id": -1,
+              "isExcluded": false,
+              "isDraft": false,
+              "author": "Britton & Rose",
+              "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:267043",
+              "nameString": "Acaciella",
+              "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:181584",
+              "isProtologue": false
+            },
+            {
+              "isPreferred": false,
+              "referencedIn": "Mabberley, D.J. 2008, Mabberley's Plant-Book Edn. 3.",
+              "guid": "urn:lsid:biodiversity.org.au:apni.taxon:353237",
+              "id": -1,
+              "isExcluded": false,
+              "isDraft": false,
+              "author": "Britton & Rose",
+              "nameGuid": "urn:lsid:biodiversity.org.au:apni.name:267043",
+              "nameString": "Acaciella",
+              "referencedInGuid": "urn:lsid:biodiversity.org.au:apni.reference:185781",
+              "isProtologue": false
+            }
+          ]
+        },
+        "lastUpdated": "2016-02-15T05:11:42Z",
+        "nslNomenclatureIdentifier": null,
+        "links": [],
+        "privateMode": false,
+        "primaryImage": null,
+        "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+        "archivedBy": null,
+        "specimenIds": [],
+        "occurrencesUrl": "",
+        "publications": [],
+        "createdBy": "System",
+        "hasConservationStatus": false,
+        "archiveComment": null,
+        "lastUpdatedBy": "Simon Bear",
+        "classification": [
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:661518",
+            "id": null,
+            "rank": "kingdom",
+            "childCount": 2024,
+            "profileId": null,
+            "name": "Plantae",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": null
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:412162",
+            "id": null,
+            "rank": "phylum",
+            "childCount": 2024,
+            "profileId": null,
+            "name": "Charophyta",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": null
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:406945",
+            "id": null,
+            "rank": "class",
+            "childCount": 2024,
+            "profileId": null,
+            "name": "Equisetopsida",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": null
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:417544",
+            "id": null,
+            "rank": "subclass",
+            "childCount": 2024,
+            "profileId": null,
+            "name": "Magnoliidae",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": null
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:418427",
+            "id": null,
+            "rank": "order",
+            "childCount": 1389,
+            "profileId": null,
+            "name": "Fabales",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": null
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:397778",
+            "id": null,
+            "rank": "family",
+            "childCount": 1389,
+            "profileId": "2d659bbb-b042-4b4b-bb07-a936f767c05f",
+            "name": "Fabaceae",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": "Mimosaceae"
+          },
+          {
+            "guid": "urn:lsid:biodiversity.org.au:apni.taxon:311518",
+            "id": null,
+            "rank": "genus",
+            "childCount": 2,
+            "profileId": "e9cc8003-f41e-4e93-b637-06420254045c",
+            "name": "Acaciella",
+            "class": "au.org.ala.profile.Classification",
+            "profileName": "Acaciella"
+          }
+        ],
+        "stagedImages": [],
+        "images": [],
+        "uuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+        "fullName": "Acaciella Britton & Rose",
+        "attributes": [
+          {
+            "creators": "",
+            "text": "<p><b>Comment:<\u002fb> <b>Since<\u002fb> <i>publication<\u002fi> <u>of<\u002fu> <strike>the<\u002fstrike> <i>Flora of Australia<\u002fi> <sub>treatment<\u002fsub>, <sup>the<\u002fsup> <i>Australian Plant Census<\u002fi> recognises the transfer of some species from <i>Acacia<\u002fi> subg. <i>Aculeiferum<\u002fi> to the genus <i>Acaciella<\u002fi>. <i>Acaciella texensis<\u002fi> is said to be doubtfully naturalised in Qld, and is not treated further here.  ♂♀±–ÀרצΩ.<\u002fp><ol><li>ordered<\u002fli><li>list<\u002fli><\u002fol><ul><li>unordered<\u002fli><li>list<ul><li>with indent<\u002fli><\u002ful><\u002fli><\u002ful><p>table caption<\u002fp><p>testtable<\u002fp><p>withsome<\u002fp><p>contentin the cells<\u002fp><p>asdf<\u002fp><p><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">♂♀±–ÀרצΩ<\u002fspan><\u002fspan><\u002fp><h1><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">heading 1 <\u002fspan><\u002fspan><\u002fh1><h2><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">heading 2<\u002fspan><\u002fspan><\u002fh2><h3><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">heading 3<\u002fspan><\u002fspan><\u002fh3><h4><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">heading 4<\u002fspan><\u002fspan><\u002fh4><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">formatted<\u002fspan><\u002fspan><div><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">address<\u002fspan><\u002fspan><\u002fdiv><div><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">normal<\u002fspan><\u002fspan><\u002fdiv><h6><span style=\"color:#ff0000\"><span style=\"background-color:#0000cd\">heading 6<\u002fspan><\u002fspan><\u002fh6><p> <\u002fp><p> <\u002fp><p> <\u002fp><ul><li>List<\u002fli><li>Of<\u002fli><li>Thing<\u002fli><\u002ful><ol><li>Numbered<\u002fli><li>List<\u002fli><li>Of<\u002fli><li>Thing<ol><li>With<\u002fli><li>Sublevel<\u002fli><\u002fol><\u002fli><\u002fol><p><i>Italics<\u002fi><\u002fp><p><i>Bold<b> italics<\u002fb><\u002fi><\u002fp><p><b><i><strike>Asdfasd<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Some random fonts <\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Some random fonts<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Centered<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Tables<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Are<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>And<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Great<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>Stuff<\u002fstrike><\u002fi><\u002fb><\u002fp><p><b><i><strike>innit<\u002fstrike><\u002fi><\u002fb><\u002fp>",
+            "title": "Comment",
+            "source": "Comic Sans",
+            "order": -1,
+            "original": null,
+            "editors": "Simon Bear",
+            "uuid": "963c2d5a-5ef1-4480-8e1d-0daf5a94df35",
+            "required": false,
+            "profile": {
+              "scientificName": "Acaciella",
+              "uuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+              "opus": {
+                "title": "Real Classifications",
+                "uuid": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+                "shortName": null
+              }
+            },
+            "plainText": "Since publication of the Flora of Australia treatment, the Australian Plant Census recognises the transfer of some species from Acacia subg. Aculeiferum to the genus Acaciella. Acaciella texensis is said to be doubtfully naturalised in Qld, and is not treated further here.  ♂♀±–ÀרצΩ.orderedlistunorderedlistwith indent\ntable caption\ntesttable\nwithsome\ncontentin the cells\nasdf\n♂♀±–ÀרצΩheading 1 heading 2heading 3heading 4formattedaddressnormalheading 6\n \n \n ListOfThingNumberedListOfThingWithSublevel\nItalics\nBold italics\nAsdfasd\nSome random fonts \nSome random fonts\nCentered\nTables\nAre\nAnd\nGreat\nStuff\ninnit"
+          },
+          {
+            "creators": "",
+            "text": "<p><b>Published:<\u002fb> Protologue, synonymy and synonymy typification as published in the original Flora of Australia volume.<br /><\u002fp><p>Protologue<br /><i>N. Amer. Fl.<\u002fi>  23(3): 96 (1928) <\u002fp>",
+            "title": "Published",
+            "source": null,
+            "order": -1,
+            "original": null,
+            "editors": "",
+            "uuid": "78b53940-e036-4b58-b316-73b4f9981c68",
+            "required": false,
+            "profile": {
+              "scientificName": "Acaciella",
+              "uuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+              "opus": {
+                "title": "Real Classifications",
+                "uuid": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+                "shortName": null
+              }
+            },
+            "plainText": "Protologue, synonymy and synonymy typification as published in the original Flora of Australia volume.\n\nProtologue\nN. Amer. Fl. 23(3): 96 (1928)"
+          },
+          {
+            "creators": "",
+            "text": "<p><b>Source citation:<\u002fb> Flora of Australia Project<\u002fp>",
+            "title": "Source citation",
+            "source": null,
+            "order": -1,
+            "original": null,
+            "editors": "",
+            "uuid": "d323fc37-104d-4406-a11b-e54ae094e2a6",
+            "required": false,
+            "profile": {
+              "scientificName": "Acaciella",
+              "uuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+              "opus": {
+                "title": "Real Classifications",
+                "uuid": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+                "shortName": null
+              }
+            },
+            "plainText": "Flora of Australia Project"
+          },
+          {
+            "creators": "",
+            "text": "<p><b>Typification:<\u002fb> Type: not given in APNI.<\u002fp>",
+            "title": "Typification",
+            "source": null,
+            "order": -1,
+            "original": null,
+            "editors": "",
+            "uuid": "7ca12f91-b02d-41d2-b9d4-31ba7ccc7bfe",
+            "required": false,
+            "profile": {
+              "scientificName": "Acaciella",
+              "uuid": "e9cc8003-f41e-4e93-b637-06420254045c",
+              "opus": {
+                "title": "Real Classifications",
+                "uuid": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+                "shortName": null
+              }
+            },
+            "plainText": "Type: not given in APNI."
+          }
+        ],
+        "archivedDate": null,
+        "opusId": "e2e16824-72d7-4d83-a264-fa041295b3bf",
+        "dataResourceUid": "dr2700",
+        "nslProtologue": "Britton, N.L. & Rose, J.N. (1928), North American Flora 23(3)"
+      }
+    }
+  ],
+  "cover": {
+    "title": "Real Classifications",
+    "subtitle": "Acaciella Britton & Rose",
+    "logo": null,
+    "banner": null,
+    "primaryImage": ""
+  },
+  "colophon": {
+    "collectionCopyright": "&copy; ",
+    "genericCopyright": "\n            <p>The material in this profile is protected by copyright laws and may be used as permitted under the Copyright Act 1968 or in accordance with licences granted by the copyright owner.<\u002fp>\n\n            <p>Your right to use <strong>images and maps<\u002fstrong> or to permit others to use these is subject to the terms of the licence that the contributor of them has applied to the image or map. Information on copyright in images is set out in the Acknowledgements section and through the ALA site at <a href=\"http://www.ala.org.au/faq/using-images-found-on-the-ala/\" target=\"_blank\">http://www.ala.org.au/faq/using-images-found-on-the-ala/<\u002fa><\u002fp>\n\n            <p><strong>Text<\u002fstrong> used in this profile has been contributed by the editors and others identified. Unless permitted by the copyright owner, you may download or print a single copy of this material for your own information, research or study.<\u002fp>\n\n            <p>You may not remove any copyright or other notices appearing in this profile.<\u002fp>\n\n            <p>No rights are granted to the Commonwealth Coat of Arms or to any logos or trade marks.<\u002fp>\n\n            <p>Please contact ALA at <a href=\"mailto:support@ala.org.au\">support@ala.org.au<\u002fa> if you believe material in this profile infringes any rights or breaches any contract or licence obligations.<\u002fp>\n",
+    "logo": null,
+    "profileLink": "http://devt.ala.org.au:8080/profile-hub/opus/e2e16824-72d7-4d83-a264-fa041295b3bf/profile/e9cc8003-f41e-4e93-b637-06420254045c",
+    "citation": null,
+    "version": null
+  }
+}

@@ -1,0 +1,53 @@
+group 'au.org.ala'
+version '1.0-SNAPSHOT'
+
+//buildscript {
+//    repositories {
+//        jcenter()
+////        maven {
+////            url 'http://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/'
+////        }
+////        maven {
+////            url 'http://jasperreports.sourceforge.net/maven2'
+////        }
+////        maven {
+////            url 'http://repository.jboss.org/maven2/'
+////        }
+//        mavenLocal()
+//    }
+//    dependencies {
+//        classpath 'com.github.gmazelier:jasperreports-gradle-plugin:0.3.2'
+//        classpath 'org.codehaus.groovy:groovy-all:2.4.4'
+//    }
+//}
+
+apply plugin: 'java'
+apply plugin: 'groovy'
+//apply plugin: 'com.github.gmazelier.jasperreports'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    jcenter()
+    mavenCentral()
+    maven {
+        url 'http://jasperreports.sourceforge.net/maven2/'
+    }
+    maven {
+        url 'https://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/'
+    }
+    maven {
+        url 'http://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/'
+    }
+}
+
+dependencies {
+    compile 'net.sf.jasperreports:jasperreports:6.2.0'
+    compile 'net.sf.jasperreports:jasperreports-functions:6.2.0'
+    compile 'net.sf.jasperreports:jasperreports-fonts:6.0.0'
+    compile 'org.codehaus.groovy:groovy-all:2.4.4'
+    compile 'com.google.guava:guava:18.0'
+    compile 'net.glxn:qrgen:1.4'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
